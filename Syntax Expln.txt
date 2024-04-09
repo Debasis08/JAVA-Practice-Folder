@@ -1,0 +1,13 @@
+::>>
+
+class Example
+{
+    public static void main(String[] args) {....}
+}
+
+Expln:- 
+- "class" is just an encapsulation of codes. In the name of "class", the codes can define their existence.
+- The keyword "public" represents that the main method could be called outside of the class.
+- "static" keyword helps the main method to be called before an object of the class is created. Due to "static" the code is called with the "class" name. 
+- "void" declares that it will not return anything.
+- Rest is to return arguments like to print stuffs.
