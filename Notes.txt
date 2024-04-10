@@ -13,7 +13,7 @@ double -> float -> long -> int -> char -> short -> byte
 
 
 Operators:- 
-------------------
+----------
 
 Java divides the operators into the following groups:
 
@@ -22,3 +22,12 @@ Assignment operators ( = , += , -= , &= , |= , <<= , >>= , ^= )
 Comparison operators
 Logical operators
 Bitwise operators
+
+
+USE QUOTES AS STRING:-
+--------------------
+
+->> String txt = "We are the so-called \"Vikings\" from the north.";
+Here, the backlash character "\" helps the java to understand that it is a part of the string, but not a syntax whatever it is on the right side of it.
+
+
